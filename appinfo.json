@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "wazpys@gmail.com",
+    "longName": "nWatch",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "nWatch",
+    "uuid": "29e1c52f-629e-49f1-9431-88ec836a7577",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
