@@ -9,6 +9,11 @@
     "resources": {
         "media": [
             {
+                "file": "images/logo.png",
+                "name": "IMAGE_LOGO",
+                "type": "png"
+            },
+            {
                 "file": "images/background.png",
                 "name": "IMAGE_BACKGROUND",
                 "type": "png"
